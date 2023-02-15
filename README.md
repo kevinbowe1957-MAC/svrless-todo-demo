@@ -1,4 +1,5 @@
 PUSH Verify 3
+Amplify Check
 
 # svrless-todo-demo
 
