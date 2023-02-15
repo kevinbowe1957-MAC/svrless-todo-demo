@@ -1,6 +1,6 @@
 PUSH Verify 3
 Amplify Check
-
+Amplify Check 2 with Title Mod
 # svrless-todo-demo
 
 ## Project setup
