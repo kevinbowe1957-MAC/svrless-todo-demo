@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h1>Serverless Todo Demo</h1>
+		<h1>Serverless Todo Demo CICD CHECK</h1>
 		<div class="add-todo-wrapper">
 			<input tpye="text" v-model="newTodoInput" @keydown.enter="addTodo">
 			<button @click="addTodo">Add Todo</button>
